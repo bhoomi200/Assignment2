@@ -1,0 +1,8 @@
+D:\Globallogic\Repo\TallyAssignment12\bin\Debug\TallyAssignment12.exe.config
+D:\Globallogic\Repo\TallyAssignment12\bin\Debug\TallyAssignment12.exe
+D:\Globallogic\Repo\TallyAssignment12\bin\Debug\TallyAssignment12.pdb
+D:\Globallogic\Repo\TallyAssignment12\obj\Debug\TallyAssignment12.csproj.AssemblyReference.cache
+D:\Globallogic\Repo\TallyAssignment12\obj\Debug\TallyAssignment12.csproj.SuggestedBindingRedirects.cache
+D:\Globallogic\Repo\TallyAssignment12\obj\Debug\TallyAssignment12.csproj.CoreCompileInputs.cache
+D:\Globallogic\Repo\TallyAssignment12\obj\Debug\TallyAssignment12.exe
+D:\Globallogic\Repo\TallyAssignment12\obj\Debug\TallyAssignment12.pdb
