@@ -113,6 +113,7 @@ namespace StudentAssignment
                 SqlCommand c1 = new SqlCommand("exec spUpdateSubject'" + subName + "','" + Subobt + "','" + subjlist[i] + "'", con);
                 c1.ExecuteNonQuery();
             }
+            Console.WriteLine("Updated Successfully");
         }
         public static void Add()
         {
@@ -145,6 +146,7 @@ namespace StudentAssignment
                 SqlCommand c1 = new SqlCommand("exec spAddSubject'" + subName + "','" + Subobt + "','" + stuId + "'", con);
                 c1.ExecuteNonQuery();
             }
+            Console.WriteLine("Added successfully");
         }
         public static void Delete(int stuId)
         {
